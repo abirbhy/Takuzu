@@ -5,7 +5,7 @@ Takuzu or Binairo is a puzzle game consisting of filling a grid with numbers 0 a
 
 ## Constraints to respect
 
-4x4, 6x6 or 8x8 grids. Each grid contains only 0 and 1, and must be completed respecting three rules2:
+4x4, 6x6 or 8x8 grids, each grid contains only 0 and 1, and must be completed respecting three rules2:
 
 1/ As many as 1 and 0 on each line and on each column.
 
