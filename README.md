@@ -16,6 +16,7 @@ Takuzu or Binairo is a puzzle game consisting of filling a grid with numbers 0 a
 ## Technologies
 
 Java 8
+
 Swing
 
 ## IDE
